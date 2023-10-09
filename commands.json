@@ -3,6 +3,7 @@
         "clear A1",
         "flag A4",
         "flag B4",
-        "flag E2"
+        "flag E2",
+        "clear F2"
     ]
 }
